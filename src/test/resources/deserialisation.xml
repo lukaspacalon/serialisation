@@ -1,0 +1,16 @@
+<propertyList name="example">
+   <list>
+      <entry key="one">
+         <value>first value</value>
+      </entry>
+      <entry key="two">
+         <value>first value</value>
+      </entry>
+      <entry key="three">
+         <value>first value</value>
+      </entry>
+      <entry key="four">
+         <value>first value</value>
+      </entry>
+   </list>
+</propertyList>
