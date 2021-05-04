@@ -1,0 +1,91 @@
+[INFO ] 2021-03-22 09:43:59.785 [main] Mapping - Initialization of Mapping internal objects
+[INFO ] 2021-03-22 09:43:59.807 [main] MappingTest - Test Serialization with example object (WRITE)
+[INFO ] 2021-03-22 09:43:59.882 [main] Mapping - Initialization of Mapping internal objects
+[INFO ] 2021-03-22 09:43:59.882 [main] MappingTest - Test Serialization with Configuration object (WRITE)
+[INFO ] 2021-03-22 09:43:59.890 [main] Mapping - Initialization of Mapping internal objects
+[INFO ] 2021-03-22 09:43:59.890 [main] MappingTest - Test Deserialization (READ)
+[INFO ] 2021-03-22 09:43:59.906 [main] StrategyAlias - com.inetpsa.serialisation.model.Configuration
+[INFO ] 2021-03-22 09:43:59.998 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:43:59.999 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.000 [main] StrategyAlias - {port=attribute port='80'}
+[INFO ] 2021-03-22 09:44:00.000 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.001 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='port', en=attribute en='port'}
+[INFO ] 2021-03-22 09:44:00.001 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.001 [main] StrategyAlias - port
+[INFO ] 2021-03-22 09:44:00.001 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.002 [main] StrategyAlias - port
+[INFO ] 2021-03-22 09:44:00.002 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:44:00.002 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.003 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='port', en=attribute en='port'}
+[INFO ] 2021-03-22 09:44:00.003 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.004 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='css', en=attribute en='ssl'}
+[INFO ] 2021-03-22 09:44:00.004 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.005 [main] StrategyAlias - css
+[INFO ] 2021-03-22 09:44:00.005 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.005 [main] StrategyAlias - ssl
+[INFO ] 2021-03-22 09:44:00.005 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:44:00.006 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.006 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='css', en=attribute en='ssl'}
+[INFO ] 2021-03-22 09:44:00.008 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.009 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='securite', en=attribute en='security'}
+[INFO ] 2021-03-22 09:44:00.009 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.009 [main] StrategyAlias - securite
+[INFO ] 2021-03-22 09:44:00.010 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.010 [main] StrategyAlias - security
+[INFO ] 2021-03-22 09:44:00.010 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:44:00.011 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.012 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='securite', en=attribute en='security'}
+[INFO ] 2021-03-22 09:44:00.012 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.013 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='indice', en=attribute en='index'}
+[INFO ] 2021-03-22 09:44:00.014 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.014 [main] StrategyAlias - indice
+[INFO ] 2021-03-22 09:44:00.014 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.014 [main] StrategyAlias - index
+[INFO ] 2021-03-22 09:44:00.015 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:44:00.015 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.016 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='indice', en=attribute en='index'}
+[INFO ] 2021-03-22 09:44:00.016 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.017 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='default', en=attribute en='label'}
+[INFO ] 2021-03-22 09:44:00.017 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.018 [main] StrategyAlias - default
+[INFO ] 2021-03-22 09:44:00.018 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.018 [main] StrategyAlias - label
+[INFO ] 2021-03-22 09:44:00.018 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:44:00.018 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.019 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='default', en=attribute en='label'}
+[INFO ] 2021-03-22 09:44:00.019 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.020 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='libelle', en=attribute en='label'}
+[INFO ] 2021-03-22 09:44:00.020 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.021 [main] StrategyAlias - libelle
+[INFO ] 2021-03-22 09:44:00.021 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.021 [main] StrategyAlias - label
+[INFO ] 2021-03-22 09:44:00.021 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:44:00.021 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.021 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='libelle', en=attribute en='label'}
+[INFO ] 2021-03-22 09:44:00.022 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.022 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='serveur', en=attribute en='server'}
+[INFO ] 2021-03-22 09:44:00.022 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.022 [main] StrategyAlias - serveur
+[INFO ] 2021-03-22 09:44:00.023 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.023 [main] StrategyAlias - server
+[INFO ] 2021-03-22 09:44:00.023 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:44:00.023 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.023 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='serveur', en=attribute en='server'}
+[INFO ] 2021-03-22 09:44:00.024 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.024 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='keyStore', en=attribute en='clef'}
+[INFO ] 2021-03-22 09:44:00.024 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.025 [main] StrategyAlias - keyStore
+[INFO ] 2021-03-22 09:44:00.025 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.025 [main] StrategyAlias - clef
+[INFO ] 2021-03-22 09:44:00.025 [main] StrategyAlias - 
+[INFO ] 2021-03-22 09:44:00.026 [main] StrategyAlias - node
+[INFO ] 2021-03-22 09:44:00.026 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='keyStore', en=attribute en='clef'}
+[INFO ] 2021-03-22 09:44:00.027 [main] StrategyAlias - node + put
+[INFO ] 2021-03-22 09:44:00.027 [main] StrategyAlias - {port=attribute port='80', fr=attribute fr='hebergeur', en=attribute en='host'}
+[INFO ] 2021-03-22 09:44:00.029 [main] StrategyAlias - FR
+[INFO ] 2021-03-22 09:44:00.029 [main] StrategyAlias - hebergeur
+[INFO ] 2021-03-22 09:44:00.029 [main] StrategyAlias - EN
+[INFO ] 2021-03-22 09:44:00.030 [main] StrategyAlias - host
+[ERROR] 2021-03-22 09:44:00.033 [main] Mapping - Can't deserialize content
+[INFO ] 2021-03-22 09:44:00.033 [main] MappingTest - le fichier example.xml a été deserialisé sous forme d'objet...
+[ERROR] 2021-03-22 09:44:00.034 [main] MappingTest - The return value is null 

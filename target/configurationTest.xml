@@ -1,0 +1,9 @@
+<configuration id="0">
+   <server port="80">
+      <host>www.domain.com</host>
+      <client>didier</client>
+      <security ssl="true">
+         <keyStore>example keystore</keyStore>
+      </security>
+   </server>
+</configuration>
